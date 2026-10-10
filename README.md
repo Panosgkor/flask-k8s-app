@@ -1,5 +1,7 @@
 # Flask App on Kubernetes
 
+![CI](https://github.com/Panosgkor/flask-k8s-app/actions/workflows/ci.yml/badge.svg)
+
 A Python Flask API containerised with Docker and deployed to Kubernetes.
 
 ## Features
